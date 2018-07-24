@@ -13,42 +13,5 @@ Copying the data from the included `.csv` dataset:
 
 -   Your server should include appropriate CORS headers
 
-## Examples
-
-Your returned data list should look like this:
-
-```
-{
-    data: [{
-        "id": 1,
-        "firstAttribute": "firstValue",
-        "secondAttribute": "secondValue"
-    },{
-        "id": 2,
-        "firstAttribute": "firstValue",
-        "secondAttribute": "secondValue"
-    }]
-}
-```
-
-Your returned data item should look like this:
-
-```
-{
-    data: {
-        "id": 1,
-        "firstAttribute": "firstValue",
-        "secondAttribute": "secondValue"
-    }
-}
-```
-
-Your returned error should look like this:
-
-```
-{
-    error: {
-        "message": "No record found!"
-    }
-}
-```
+## Deployed Link!!!
+https://pacific-retreat-14512.herokuapp.com/
